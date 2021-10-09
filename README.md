@@ -8,10 +8,8 @@ A programmer very curious about new technologies, currently a student in the las
 - 👀 Interested in web development, testing and api-rest services
 - 📫 Reach me through my email personal **andresfwilchest@gmail.com** o my [**Linkedln**](https://www.linkedin.com/in/andres-felipe-wilches-torres-7956b3190/)
 
-You can see some of my projects in the repositories hosted in my profile, also in <a href="https://gitlab.com/AndresFWilT">GITLAB</a> **wink wink**!
+You can see some of my projects in the repositories hosted in my profile, also in <a href="https://gitlab.com/AndresFWilT">GITLAB</a>!
 <br>
-![](https://gitlab.com/AndresFWilT)
-***
 
 ## Skills and Technologies 🔧
 
