@@ -6,11 +6,11 @@ A programmer very curious about new technologies, currently a student in the las
 - 🌱 I’m currently learning React and improving my knowledge in Testing
 - 💬 Ask me about anything, I will always be willing to respond and chat
 - 👀 Interested in web development, testing and api-rest services
-- 📫 Reach me through my email personal **salazars804@gmail.com** o my [**Linkedln**](https://www.linkedin.com/in/sebsalazari/)
+- 📫 Reach me through my email personal **andresfwilchest@gmail.com** o my [**Linkedln**](https://www.linkedin.com/in/andres-felipe-wilches-torres-7956b3190/)
 
-You can see some of my projects in the repositories hosted in my profile, especially the pinned ones, **wink wink**!
+You can see some of my projects in the repositories hosted in my profile, also in GITLAB **wink wink**!
 <br>
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SebSalazar&repo=SebSalazar&countColorcountColor&countColor=%234ea94b)
+![](https://gitlab.com/AndresFWilT)
 ***
 
 ## Skills and Technologies 🔧
