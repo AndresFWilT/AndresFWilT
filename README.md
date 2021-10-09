@@ -21,7 +21,7 @@ You can see some of my projects in the repositories hosted in my profile, also i
 <img alt="Spring" src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 
 ### Databases 
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%230175C2.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%230175C2.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/PostgreSQL-%fdfefe.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=black"/>
 
 ### Tools and Others
  <img alt="Arduino" src ="https://img.shields.io/badge/Arduino%20-%23000000.svg?&style=for-the-badge&logo=arduino&logoColor=blue" />
