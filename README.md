@@ -1,6 +1,6 @@
 ## Hi everyone, I'm Andr&eacute;s Felipe Wilches Torres  👋 
 
-A programmer very curious about new technologies, currently a student in the last semester of systems engineering in the glorious [@udistrital](https://github.com/udistrital) and Mintic2022
+A programmer very curious about new technologies, currently a student in the last semester of systems engineering in the glorious [@udistrital](https://github.com/udistrital
 
 - 💻 I’m currently working on Java-Spring and NodeJs-Express for Backend, Angular for Frontend
 - 🌱 I’m currently learning React and improving my knowledge in Testing
