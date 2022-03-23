@@ -12,7 +12,7 @@ You can see some of my projects in the repositories hosted in my profile, also i
 <br>
 
 ## Skills and Technologies 🔧
-
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFWilT&layout=compact&theme=buefy&hide_border=true" /></a> 
 ### Languages and Frameworks
 <img alt="Java" src="https://img.shields.io/badge/java%20-%23DC322F.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/PHP-%23563D7C.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/> <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/> <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%2300599C.svg?&style=for-the-badge&logo=kotlin&logoColor=orange"/> <img alt="HTML" src="https://img.shields.io/badge/-HTML-CA4245?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/-CSS-61DAFB?&style=for-the-badge&logo=css3&logoColor=blue"/>
 <br>
