@@ -2,11 +2,11 @@
 
 A developer very curious about new technologies, systems engineering in the glorious [@udistrital](https://github.com/udistrital, passionate by AI and ML.
 
-- 💻 I’m currently working on Java-Spring and NodeJs-Express for Backend, Angular for Frontend
+- 💻 I’m currently working on NestJs and NodeJs-Express for Backend, Angular2 for Frontend ,GraphQL services.
 - 🌱 I’m currently perfecting and improving my knowledge in Python for AI
 - 💬 Ask me about anything, I will always be willing to respond and chat
 - 👀 Interested in web development, AI, ML, api-rest services and GraphQL services
-- 📫 Reach me through my email personal **andresfwilchest@gmail.com** o my [**Linkedln**](https://www.linkedin.com/in/andres-felipe-wilches-torres-7956b3190/)
+- 📫 Reach me through my email personal **andresfwilchest@gmail.com** or my [**Linkedln**](https://www.linkedin.com/in/andres-felipe-wilches-torres-7956b3190/)
 
 You can see some of my projects in the repositories hosted in my profile, also in <a href="https://gitlab.com/AndresFWilT">GITLAB</a>!
 <br>
