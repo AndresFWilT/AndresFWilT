@@ -33,7 +33,8 @@ You can see some of my projects in the repositories hosted in my profile, also i
      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AndresFWilT&show_icons=true&include_all_commits=true&theme=one-dark"                 alt="Badri's github stats" />
    </a>
    <br />
+   <br />
    <p align="center">
-     <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresFWilT&theme=light" alt="MrBlueBird2" />
+     <img align="center" height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresFWilT&theme=light" alt="MrBlueBird2" />
    </p>
 <div/>
