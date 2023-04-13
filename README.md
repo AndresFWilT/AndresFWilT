@@ -30,16 +30,10 @@ You can see some of my projects in the repositories hosted in my profile, also i
 ## Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 <div align="center">
    <a href="https://github.com/AndresFWilT/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AndresFWilT&show_icons=true&include_all_commits=true&theme=onedark"                 alt="Badri's github stats" />
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AndresFWilT&show_icons=true&include_all_commits=true&theme=light"                 alt="Badri's github stats" />
    </a>
-   <br />
-   <br />
-   <a href="https://github.com/AndresFWilT/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AndresFWilT&layout=compact&theme=light" />
-   </a>
-   <br />
    <br />
    <p align="center">
-     <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresFWilT&theme=onedark" alt="MrBlueBird2" />
+     <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresFWilT&theme=light" alt="MrBlueBird2" />
    </p>
 <div/>
