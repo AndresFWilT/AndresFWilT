@@ -33,7 +33,7 @@ You can see some of my projects in the repositories hosted in my profile, also i
 ### Terminal
 <img alt="GNU Bash" src="https://img.shields.io/badge/GNU-Bash-000000?style=for-the-badge&logo=GNU%20bash&logoColor=orange"/> <img alt="Powershell" src="https://img.shields.io/badge/Powershell-012456?style=for-the-badge&logo=powershell&logoColor=white">
 
-## Web services
+### Web services
 <img alt="GraphQL" src="https://img.shields.io/badge/Graphql-000000?style=for-the-badge&logo=graphql&logoColor=white">
 
 ## Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
