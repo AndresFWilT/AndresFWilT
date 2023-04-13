@@ -35,6 +35,6 @@ You can see some of my projects in the repositories hosted in my profile, also i
    <br />
    <br />
    <p align="center">
-     <img align="center" height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresFWilT&theme=light" alt="MrBlueBird2" />
+     <img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresFWilT&theme=light" alt="MrBlueBird2" />
    </p>
 <div/>
