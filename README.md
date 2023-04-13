@@ -26,3 +26,20 @@ You can see some of my projects in the repositories hosted in my profile, also i
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
 <img alt="Arduino" src ="https://img.shields.io/badge/Arduino%20-%23000000.svg?&style=for-the-badge&logo=arduino&logoColor=blue" />
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-61DAFB?&style=for-the-badge&logo=css3&logoColor=blue"/>
+
+## Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+<div align="center">
+   <a href="https://github.com/AndresFWilT/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AndresFWilT&show_icons=true&include_all_commits=true&theme=onedark"                 alt="Badri's github stats" />
+   </a>
+   <br />
+   <br />
+   <a href="https://github.com/AndresFWilT/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AndresFWilT&layout=compact&theme=onedark" />
+   </a>
+   <br />
+   <br />
+   <p align="center">
+     <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresFWilT&theme=onedark" alt="MrBlueBird2" />
+   </p>
+<div/>
