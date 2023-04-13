@@ -35,7 +35,7 @@ You can see some of my projects in the repositories hosted in my profile, also i
    <br />
    <br />
    <a href="https://github.com/AndresFWilT/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AndresFWilT&layout=compact&theme=onedark" />
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AndresFWilT&layout=compact&theme=light" />
    </a>
    <br />
    <br />
