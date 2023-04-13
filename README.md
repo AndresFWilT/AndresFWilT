@@ -1,6 +1,6 @@
 ## Hi everyone, I'm Andr&eacute;s Felipe Wilches Torres  👋 
 
-A developer very curious about new technologies, systems engineering in the glorious [@udistrital](https://github.com/udistrital, passionate by AI and ML.
+A developer very curious about new technologies, systems engineering in the glorious [@udistrital](https://github.com/udistrital), passionate by AI and ML.
 
 - 💻 I’m currently working on NestJs and NodeJs-Express for Backend, Angular2 for Frontend ,GraphQL services.
 - 🌱 I’m currently perfecting and improving my knowledge in Python for AI
