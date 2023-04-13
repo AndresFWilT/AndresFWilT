@@ -30,7 +30,7 @@ You can see some of my projects in the repositories hosted in my profile, also i
 ## Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 <div align="center">
    <a href="https://github.com/AndresFWilT/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AndresFWilT&show_icons=true&include_all_commits=true&theme=light"                 alt="Badri's github stats" />
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AndresFWilT&show_icons=true&include_all_commits=true&theme=one-dark"                 alt="Badri's github stats" />
    </a>
    <br />
    <p align="center">
