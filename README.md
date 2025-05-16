@@ -112,7 +112,7 @@ Discover some of my projects hosted on my GitHub profile and also on [**GitLab!*
 
 <div align="center">
    <a href="https://github.com/AndresFWilT/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AndresFWilT&showicons=true&includeallcommits=true&theme=one-dark"                 alt="Badri's github stats" />
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AndresFWilT&showicons=true&includeallcommits=false&theme=one-dark"                 alt="Badri's github stats" />
    </a>
    <br />
    <br />
