@@ -15,7 +15,7 @@ Discover some of my projects hosted on my GitHub profile and also on [**GitLab!*
 
 ## Skills and Technologies 🔧
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresFWilT&layout=compact&theme=buefy&hideborder=true" /></a>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndresFWilT&theme=github)
 
 ---
 
