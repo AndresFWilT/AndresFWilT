@@ -1,13 +1,18 @@
 # Hi everyone, I'm Andr&eacute;s Felipe Wilches Torres 👋
 
-An IT Professional with a robust background in software engineering, I am deeply curious about emerging technologies. I earned my degree in Systems Engineering from the prestigious [@udistrital](https://github.com/udistrital), and I'm currently pursuing a Master of Science (MSc) in IT Architecture at the eminent [@uniandes](https://uniandes.edu.co/). focusing on solutions, software, information, and business architecture. My passion for  technology drives my professional pursuits.
+Software Architect | MSc in IT Architecture | Cloud & Distributed Systems Enthusiast
 
-- 💻  I'm currently deepening my understanding of software architecture, utilizing ADD methodologies and event-driven design principles. My focus is on leveraging these skills to create robust, scalable software systems that suits the business.
-- 🎓 Enhancing my expertise in Cloud Computing in AWS!.
-- 🌱 Continuously learning and applying my knowledge in Go, using new technologies and frameworks on the software development field, exploring new algorithms and staying abreast of the latest developments in the IT world!.
-- 💬 Feel free to reach out to me about anything. I'm always eager to discuss new technologies, share knowledge, and learn from others.
-- 👀 My interests span web development, AI, ML, RESTful APIs, Cloud Computing and real-time communication with GraphQL and WebSocket (WSS) APIs.
-- 📫 Reach me through my personal email **`andresfwilchest@gmail.com`** or my [**Linkedln**](https://www.linkedin.com/in/andres-felipe-wilches-torres-7956b3190/) profile.
+An IT professional with a strong background in software engineering and software architecture. I hold a Bachelor's degree in Systems Engineering from Universidad Distrital Francisco José de Caldas and a Master of Science (MSc) in IT Architecture from Universidad de los Andes.
+
+My professional interests focus on designing scalable, resilient, and maintainable systems by combining software architecture, cloud-native technologies, distributed systems, and enterprise architecture practices. I enjoy transforming complex business requirements into sustainable technical solutions.
+
+Current Focus
+- ☁️ Designing cloud-native and distributed systems on AWS.
+- 🏗️ Applying architecture methodologies such as ADD and ATAM to support architectural decision-making.
+- 🌱 Continuously expanding my expertise in Go, backend engineering, and modern software architecture patterns.
+- 🤖 Exploring Artificial Intelligence and Machine Learning integration within enterprise systems.
+- 💬 Always open to discussing software architecture, cloud computing, distributed systems, and emerging technologies.
+- 📫 Reach me through my personal email **`andresfwilchestdev@gmail.com`** or my [**Linkedln**](https://www.linkedin.com/in/andres-felipe-wilches-torres-7956b3190/) profile.
 
 Discover some of my projects hosted on my GitHub profile and also on [**GitLab!**](https://gitlab.com/AndresFWilT)
 
@@ -18,6 +23,25 @@ Discover some of my projects hosted on my GitHub profile and also on [**GitLab!*
  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndresFWilT&theme=github)
 
 ---
+
+### Architecture & Modeling
+
+- Enterprise Architecture
+- Solution Architecture
+- Software Architecture
+- ArchiMate
+- UML
+- BPMN
+- C4 Model
+- Architecture Views & Viewpoints
+- Views and Beyond (Clements et al.)
+- Rozanski & Woods
+- Attribute-Driven Design (ADD)
+- Architecture Tradeoff Analysis Method (ATAM)
+- Event-Driven Architecture (EDA)
+- Domain-Driven Design (DDD)
+- Hexagonal Architecture
+- Clean Architecture
 
 ### Programming Languages
 
@@ -81,16 +105,6 @@ Discover some of my projects hosted on my GitHub profile and also on [**GitLab!*
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
-
-### 🖥️ Terminals & Shells
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-Terminal-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Terminal-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-Terminal-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
